@@ -1,2 +1,3 @@
 # Ranking-Company-for-Margin-Loan
-download in https://github.com/hungnt0406/Ranking-Company-for-Margin-Loan/releases/tag/first
+pip install -r requirements.txt
+python app.py
