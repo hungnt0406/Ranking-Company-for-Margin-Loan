@@ -22,7 +22,7 @@ if uploaded_file is not None:
 
         # Ask user for save name
 
-        if st.button("🚀 Run Processing"):
+        if st.button("Tính điểm"):
             # Read chosen sheet
             df = pd.read_excel(uploaded_file, sheet_name=sheet_choice)
 
