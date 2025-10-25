@@ -4,8 +4,8 @@ from io import BytesIO
 import model  # your local model.py file
 
 # --- Page setup ---
-st.set_page_config(page_title="Excel Auto Scoring Tool", layout="centered")
-st.title("📊 Excel Auto Scoring App")
+st.set_page_config(page_title="Chấm Điểm Vay Margin", layout="centered")
+st.title("📊 Chấm Điểm Tự Động")
 st.write("Upload your Excel file, choose a sheet, and automatically process it.")
 
 # --- File upload ---
